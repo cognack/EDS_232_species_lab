@@ -106,7 +106,7 @@ mapview::mapview(obs_cleaned, map.types = "OpenTopoMap")
 
 ### Question 2. Do you see any odd observations, like marine species on land or vice versa? If so, please see the Data Cleaning and explain what you did to fix or remove these points.
 - Removed duplicate values
-- Yes, I saw some duplicate observations and some in areas outside the range of sweet birch.  Many observations outside the eastern US are likely due to horticultural plantings.  Therefore, I filtered observations to keep only those within the eastern United States.
+- Yes, I saw some duplicate observations and points in areas outside the range of sweet birch.  Many observations outside the eastern US are likely horticultural plantings and/or herbarium records.  Therefore, I filtered observations to keep only those within the eastern United States.
 
 
 ## Presence
