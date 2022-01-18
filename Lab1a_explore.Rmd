@@ -81,6 +81,8 @@ betula_clean <- betula_clean %>%
          longitude > -90,
          longitude < -69
 )
+
+count(betula_clean)
 ```
 
 ## View Clean Results

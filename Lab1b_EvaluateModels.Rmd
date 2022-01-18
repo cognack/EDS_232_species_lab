@@ -138,6 +138,7 @@ mdl <- read_rds(mdl_maxent_rds)
 plot(mdl)
 
 # plot term plots
+# https://search.r-project.org/CRAN/refmans/dismo/html/response.html
 response(mdl)
 
 ```
